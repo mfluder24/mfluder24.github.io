@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!--HEAD START-->
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width"/>
+        <title>Fox Addams Portfolio</title>
+        <link rel="stylesheet" type="text/css" href="./css/portfolio.css">
+    </head>
+    <!--HEAD END-->
+
+    <body class="Background">
+
+        <!--NAVBAR START-->
+        <div class="Navbar">
+            <a class="active" href="#Home">Home</a>
+            <a href="#About">About</a>
+            <a href="#GitHub">GitHub</a>
+            <a href="#Contact">Contact</a>
+        </div>
+        <!--NAVBAR END-->
+
+        <br>
+        <br>
+
+        <!--BACKGROUND VID START-->
+        <div id="Home">
+            <video autoplay muted loop id="Wave_Video">
+                <source src="./images/waves.mp4" type="video/mp4">
+                Your browser does not support HTML5 video.
+            </video>
+        </div>
+        <!--BACKGROUND VID END-->
+
+        <!--VIDEO TEXT START-->
+        <div class="Video_Text">
+            <h1 class="white_text">Fox's Portfolio</h1>
+            <strong>
+                <p class="center">
+                    <q>You can, you should, and if you're brave enough to start, you will.</q>
+                    <br> -Stephen King
+                    <br>
+                    <br> My name is Fox. Welcome to my portfolio website, which reflects my background and experience.
+                    <br>
+                    <br> Many thanks for visiting, and enjoy!
+                </p>
+            </strong>
+        </div>
+        <!--VIDEO TEXT END-->
+
+        <!--ABOUT START-->
+        <div class="Row" id="About">
+            <!--LEFT COLUMN-->   
+            <div class="Column_2">
+                <img src="./images/laptop.jpg" alt="A laptop sitting in the grass">
+            </div>
+            <!--RIGHT COLUMN-->
+            <div class="Column_1">
+                <h1>About</h1>
+                <p>
+                    I am a Software Developer that enjoys all things coding. I'm passionate about puzzles and problem solving, and love learning new skills.
+                    <br>
+                    <br>I am a proud graduate of <a href="https://www.learncodinganywhere.com" target="blank">The Tech Academy</a>'s Software Developer Boot Camp, trained and experienced in the following web and programming languages: HTML, CSS, JavaScript, SQL, C# and more.
+                    <br>
+                    <br>Outside of the office, I can be found out in nature with a good book and my corgi, Poncho.
+                    <br>
+                    <br>As a Full-Stack Developer I thrive on challenges, and would love to work with you on your project! Please feel free to <a href="#Contact">contact</a> me below.
+                </p>
+            </div>
+        </div>
+        <!--ABOUT END-->
+
+        <!--GITHUB START-->
+        <div class="Row" id="GitHub">
+            <!--LEFT COLUMN-->
+            <div class="Column_1">
+                <h1>GitHub</h1>
+                <p class="center">
+                    Several of my coding projects are available to view on GitHub:
+                    
+                    <a href="https://github.com/mfluder24"><img class="icon" src="./images/ghkitty.png"></a>
+                </p>
+            </div>
+            <!--RIGHT COLUMN-->
+            <div class="Column_2">
+                <a href="https://github.com/mfluder24" target="blank"><img src="./images/GitHub.png" alt="GitHub logo"></a>
+            </div>
+        </div>
+        <!--GITHUB END-->
+
+        <!--CONTACT START-->
+        <div class="Row" id="Contact">
+            <!--LEFT COLUMN, IMAGE-->
+            <div class="Column_2 Column_tall">
+                <img src="./images/email.jpg" alt="Contact image">
+            </div>
+            <!--RIGHT COLUMN, CONTACT FORM-->
+            <div class="Column_1 Column_tall">
+                <h1>Contact</h1>
+                <form action="https://formspree.io/f/xzborkky" method="POST">
+                    <label>Name:</label>
+                        <input type="text" placeholder="Please enter your name here">
+                    <label>Email:</label>
+                        <input type="text" id="Email" name="Email" placeholder="Please enter your email here">
+                    <label>Message:</label>
+                        <input type="text" id="Message" name="Message" placeholder="Please write your message here">
+                        <input type="submit" value="SUBMIT">
+                </form>
+            </div>
+        </div>
+        <!--CONTACT END-->
+
+        <!--FOOTER START-->
+        <footer>
+            <p>
+                <p class="center">&copy; Fox Addams 2022</p>
+            </p>
+        </footer>
+        <!--FOOTER END-->
+    </body>
+</html>
