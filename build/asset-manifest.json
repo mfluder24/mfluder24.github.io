@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec274995.css",
-    "main.js": "/static/js/main.9d11b05f.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
-    "static/media/map.png": "/static/media/map.02b6049b654d568137ba.png",
-    "static/media/Self.jpg": "/static/media/Self.601467b373b756d08890.jpg",
-    "static/media/fox_icon.png": "/static/media/fox_icon.aa2ed3e46848a2aca34d.png",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/index.html",
-    "main.ec274995.css.map": "/static/css/main.ec274995.css.map",
-    "main.9d11b05f.js.map": "/static/js/main.9d11b05f.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/mfluder24/mfluder24.github.io/static/css/main.4b10b7d7.css",
+    "main.js": "/mfluder24/mfluder24.github.io/static/js/main.59c4f38d.js",
+    "static/js/787.183cd25b.chunk.js": "/mfluder24/mfluder24.github.io/static/js/787.183cd25b.chunk.js",
+    "static/media/map.png": "/mfluder24/mfluder24.github.io/static/media/map.02b6049b654d568137ba.png",
+    "static/media/Self.jpg": "/mfluder24/mfluder24.github.io/static/media/Self.601467b373b756d08890.jpg",
+    "static/media/fox_icon.png": "/mfluder24/mfluder24.github.io/static/media/fox_icon.aa2ed3e46848a2aca34d.png",
+    "static/media/helvetica-neu.ttf": "/mfluder24/mfluder24.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/mfluder24/mfluder24.github.io/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/mfluder24/mfluder24.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/mfluder24/mfluder24.github.io/index.html",
+    "main.4b10b7d7.css.map": "/mfluder24/mfluder24.github.io/static/css/main.4b10b7d7.css.map",
+    "main.59c4f38d.js.map": "/mfluder24/mfluder24.github.io/static/js/main.59c4f38d.js.map",
+    "787.183cd25b.chunk.js.map": "/mfluder24/mfluder24.github.io/static/js/787.183cd25b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec274995.css",
-    "static/js/main.9d11b05f.js"
+    "static/css/main.4b10b7d7.css",
+    "static/js/main.59c4f38d.js"
   ]
 }
